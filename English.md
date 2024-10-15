@@ -1,9 +1,7 @@
 # Vtuber
-How to make Model Vtuber in Thai
-วิธีการทำโมเดลวีทูปเบอร์ในไทย
+How to make Model Vtuber
 
 # What is a Vtuber
-Vtuber คืออะไร
 
 Eng: Vtuber is short for Virtual Youtuber, which is a creator or influencer who uses virtual characters (avatars, 2D and 3D models) instead of using their own images when creating content. Virtual characters are often created using 2D or 3D simulation technology and can move according to the user's performance through motion capture or face tracking. Vtuber often entertains viewers who come to watch him in that Live and not only entertains but also makes hundreds of viewers laugh when joining the Live. In addition to Live, they also cover various songs in their fields of expertise, such as classical songs or pop and rock songs, which are released as videos on their channels.
 
